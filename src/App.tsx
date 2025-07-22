@@ -41,7 +41,7 @@ function App() {
     setError(null);
 
     try {
-      const API_URL = 'https://employee-salary-prediction-production.up.railway.app/predict';
+      const API_URL = 'https://employee-salary-prediction-backend-production.up.railway.app/predict';
       const response = await fetch(API_URL, {
         method: 'POST',
         headers: {
