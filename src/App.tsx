@@ -142,8 +142,7 @@ function App() {
                     <option value="Federal-gov">Federal Government</option>
                     <option value="Local-gov">Local Government</option>
                     <option value="State-gov">State Government</option>
-                    <option value="Without-pay">Without Pay</option>
-                    <option value="Never-worked">Never Worked</option>
+                    
                   </select>
                 </div>
 
@@ -171,11 +170,8 @@ function App() {
                     <option value="7th-8th">7th-8th Grade</option>
                     <option value="12th">12th Grade</option>
                     <option value="Masters">Masters</option>
-                    <option value="1st-4th">1st-4th Grade</option>
                     <option value="10th">10th Grade</option>
                     <option value="Doctorate">Doctorate</option>
-                    <option value="5th-6th">5th-6th Grade</option>
-                    <option value="Preschool">Preschool</option>
                   </select>
                 </div>
 
@@ -198,7 +194,6 @@ function App() {
                     <option value="Separated">Separated</option>
                     <option value="Widowed">Widowed</option>
                     <option value="Married-spouse-absent">Married (Spouse Absent)</option>
-                    <option value="Married-AF-spouse">Married (Armed Forces Spouse)</option>
                   </select>
                 </div>
 
@@ -228,7 +223,6 @@ function App() {
                     <option value="Transport-moving">Transport & Moving</option>
                     <option value="Priv-house-serv">Private House Service</option>
                     <option value="Protective-serv">Protective Service</option>
-                    <option value="Armed-Forces">Armed Forces</option>
                   </select>
                 </div>
 
